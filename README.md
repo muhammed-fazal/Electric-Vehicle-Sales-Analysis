@@ -1,4 +1,7 @@
 # 🚗🔋 Electric Vehicle Sales Analysis & Dashboard
+
+![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221524.png)
+
 ![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/blob/main/Screenshot%202025-07-02%20221555.png)
 This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard** project, completed as part of my internship at **Unified Mentor**. The goal of this project was to analyze India’s EV sales trends and deliver actionable insights using **Python**, **SQL**, **Excel**, and **Power BI**.
 
@@ -19,7 +22,6 @@ This repository contains my **Electric Vehicle (EV) Sales Analysis and Dashboard
 - **4-Wheelers** and public transport vehicles remain under-penetrated, offering future growth opportunities.
 - Top states for EV adoption: **Uttar Pradesh, Maharashtra, Karnataka, Delhi, and Rajasthan**.
 - Consistent year-over-year growth, with clear seasonal peaks.
-![EV Sales Dashboard](https://github.com/muhammed-fazal/Electric-Vehicle-Sales-Analysis/Screenshot%202025-07-02%20221555.png)
 
 ---
 
